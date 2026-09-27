@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Saqib 👋
+# Hi, I'm Muhammad Saqib Hameed
 
 ### Software QA Engineer | Manual Testing | API Testing | SQL
 
@@ -58,13 +58,10 @@ I'm a Software QA Engineer with experience in manual and functional testing of w
 * Test Cases
 * Bug Reports
 * QA Checklists
-* API Testing Examples
-* SQL Testing Examples
-* JMeter Performance Testing
-* Playwright Automation Practice
+
 
 ### 📫 Contact
 
-LinkedIn: Add your LinkedIn profile here
+LinkedIn:(https://www.linkedin.com/in/muhammad-saqib-hameed-27335b226/)
 
-Email: Add your professional email here
+Email: muhammadsaqibhameed126@gmail.com
